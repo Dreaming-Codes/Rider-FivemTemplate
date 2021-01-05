@@ -1,4 +1,4 @@
-﻿#region Dll di fivem
+#region FIVEM DLL
 using CitizenFX.Core;
 using static CitizenFX.Core.Native.API;
 #endregion
