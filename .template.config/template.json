@@ -1,0 +1,12 @@
+﻿{
+  "author": "DreamingCodes",
+  "name": "Fivem dll",
+  "description": "Template c# per fivem.",
+  "identity": "DreamingCodes.FiveM.1.0",
+  "shortName": "fivem",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "MyFivemProject"
+}
